@@ -1,0 +1,6 @@
+c:\users\eltoca\documents\visual studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.dll
+c:\users\eltoca\documents\visual studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+c:\users\eltoca\documents\visual studio 2013\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.dll
+c:\users\eltoca\documents\visual studio 2013\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\eltoca\documents\visual studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Debug\AcTcMgd.dll
+C:\Users\eltoca\documents\visual studio 2013\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache

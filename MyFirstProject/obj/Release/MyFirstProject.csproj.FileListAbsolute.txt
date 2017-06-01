@@ -1,0 +1,4 @@
+C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Release\MyFirstProject.dll
+C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Release\MyFirstProject.pdb
+C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\obj\Release\MyFirstProject.dll
+C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\obj\Release\MyFirstProject.pdb

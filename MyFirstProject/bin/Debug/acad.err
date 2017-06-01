@@ -1,0 +1,102 @@
+
+
+FATAL ERROR:  Unhandled Access Violation Writing 0xec530bfa Exception at ec530bfah
+
+05/10/2016 at 23:51:14.872  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled e0434352h Exception at f2b07788h
+
+10/24/2016 at 18:55:07.935  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled e0434352h Exception at f2b07788h
+
+10/24/2016 at 18:56:25.497  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled e0434352h Exception at 3b867788h
+
+03/29/2017 at 22:41:04.421  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at a1eef880h
+
+04/13/2017 at 19:05:04.154  Drawing: C:\Users\eltoca\Desktop\testing.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at a384f880h
+
+04/13/2017 at 19:06:59.014  Drawing: C:\Users\eltoca\Desktop\testing.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 984dc4a8h
+
+04/13/2017 at 20:01:23.378  Drawing: C:\Users\eltoca\Desktop\testing.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 984dc4a8h
+
+04/13/2017 at 20:05:14.207  Drawing: C:\Users\eltoca\Desktop\testing.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 984dc4a8h
+
+04/13/2017 at 20:46:59.284  Drawing: C:\Users\eltoca\Desktop\testing.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 984dc4a8h
+
+04/13/2017 at 20:50:23.059  Drawing: C:\Users\eltoca\Desktop\testing.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 59622708h
+
+04/14/2017 at 00:22:46.981  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at a059e8b5h
+
+04/24/2017 at 22:35:32.582  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0010 Exception at a07ca4d0h
+
+04/27/2017 at 23:02:16.155  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0010 Exception at 9ee8a4d0h
+
+05/13/2017 at 13:48:23.282  Drawing: C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Debug\Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 5cd14024h
+
+05/13/2017 at 14:02:52.788  Drawing: C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Debug\Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0010 Exception at 9ee8a4d0h
+
+05/13/2017 at 14:04:58.471  Drawing: C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Debug\Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0010 Exception at 9ee8a4d0h
+
+05/13/2017 at 14:09:34.192  Drawing: C:\Users\eltoca\Documents\Visual Studio 2013\Projects\MyFirstProject\MyFirstProject\bin\Debug\Drawing1.dwg
+-------------
