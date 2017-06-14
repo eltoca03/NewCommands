@@ -13,9 +13,9 @@ using Autodesk.AutoCAD.EditorInput;
 using Autodesk.AutoCAD.Interop;
 using MyFirstProject;
 
-[assembly: CommandClass(typeof(MyFirstProject1.Class1))]
+[assembly: CommandClass(typeof(MyFirstProject.Class1))]
  
-namespace MyFirstProject1
+namespace MyFirstProject
 {
   public class Class1
   {
@@ -779,6 +779,9 @@ namespace MyFirstProject1
 
       return Math.Tan(ang/4);
     }
+
+
+    
 
   }
 }
